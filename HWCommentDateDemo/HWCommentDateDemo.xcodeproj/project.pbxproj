@@ -14,7 +14,7 @@
 		97DE87211DFDAD6700A07DB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DE871F1DFDAD6700A07DB2 /* LaunchScreen.storyboard */; };
 		97DE872B1DFDAD8400A07DB2 /* NSCalendar+HWCommentDate.m in Sources */ = {isa = PBXBuildFile; fileRef = 97DE872A1DFDAD8400A07DB2 /* NSCalendar+HWCommentDate.m */; };
 		97DE872E1DFDB78800A07DB2 /* HWListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 97DE872D1DFDB78800A07DB2 /* HWListView.m */; };
-		97DE87301DFDBD4D00A07DB2 /* clickImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DE872F1DFDBD4D00A07DB2 /* clickImage.png */; };
+		97DE87341DFDC06400A07DB2 /* clickImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DE87331DFDC06400A07DB2 /* clickImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,7 +30,7 @@
 		97DE872A1DFDAD8400A07DB2 /* NSCalendar+HWCommentDate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSCalendar+HWCommentDate.m"; sourceTree = "<group>"; };
 		97DE872C1DFDB78800A07DB2 /* HWListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HWListView.h; sourceTree = "<group>"; };
 		97DE872D1DFDB78800A07DB2 /* HWListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HWListView.m; sourceTree = "<group>"; };
-		97DE872F1DFDBD4D00A07DB2 /* clickImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clickImage.png; sourceTree = "<group>"; };
+		97DE87331DFDC06400A07DB2 /* clickImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clickImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,7 +47,7 @@
 		97DE87051DFDAD6700A07DB2 = {
 			isa = PBXGroup;
 			children = (
-				97DE872F1DFDBD4D00A07DB2 /* clickImage.png */,
+				97DE87331DFDC06400A07DB2 /* clickImage.png */,
 				97DE87281DFDAD8400A07DB2 /* HWCommentDate */,
 				97DE87101DFDAD6700A07DB2 /* HWCommentDateDemo */,
 				97DE870F1DFDAD6700A07DB2 /* Products */,
@@ -156,7 +156,7 @@
 			files = (
 				97DE87211DFDAD6700A07DB2 /* LaunchScreen.storyboard in Resources */,
 				97DE871E1DFDAD6700A07DB2 /* Assets.xcassets in Resources */,
-				97DE87301DFDBD4D00A07DB2 /* clickImage.png in Resources */,
+				97DE87341DFDC06400A07DB2 /* clickImage.png in Resources */,
 				97DE871C1DFDAD6700A07DB2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
